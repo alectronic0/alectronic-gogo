@@ -8,7 +8,6 @@
   ],
   "website": "http://alectronic-gogo.herokuapp.com/",
   "repository": "https://github.com/alectronic0/alectronic-gogo",
-  "logo": "",
   "success_url": "/",
   "scripts": {},
   "env": {},

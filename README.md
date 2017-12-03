@@ -1,6 +1,8 @@
 # alectronic-springboot
 [![Build Status](https://travis-ci.org/alectronic0/alectronic-gogo.svg?branch=master)](https://travis-ci.org/alectronic0/alectronic-gogo)
 [![codecov](https://codecov.io/gh/alectronic0/alectronic-gogo/branch/master/graph/badge.svg)](https://codecov.io/gh/alectronic0/alectronic-gogo)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/alectronic0/alectronic-gogo)
 ## intro
 
 ## Quickstart
